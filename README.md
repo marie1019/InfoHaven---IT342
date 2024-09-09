@@ -15,7 +15,7 @@
 ## Project Teams
 
 ### CSIT327 - IM2 (3rd Year, 1st Semester, 2023)
-**Group: Kayamukat (Original Creators)**
+**Group: Kayamukat**
 - Jugil Cabuenas
 - Britt Michaels Cañeda
 - Isaiah John Garciano
